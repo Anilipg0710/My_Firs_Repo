@@ -5,3 +5,5 @@ git pull <remote repo>
 git init -> initializing a repo
 git config-global user.name <user-name?>
 git config-global user.email <user-email>
+git add "Filename.ext"
+git status -> check the status of staging
