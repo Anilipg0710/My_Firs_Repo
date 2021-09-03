@@ -1,0 +1,7 @@
+git clone <URL>
+git commit -m "	message"
+git push origin <branch>
+git pull <remote repo>
+git init -> initializing a repo
+git config-global user.name <user-name?>
+git config-global user.email <user-email>
